@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$databasename = "tileswale";
+$databasename = "";
 
 $non_fillable = array("id","ID");
 
